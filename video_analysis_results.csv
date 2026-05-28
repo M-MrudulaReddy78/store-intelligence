@@ -1,6 +1,0 @@
-total_frames,fps,duration_seconds,motion_frames_detected,motion_ratio,file_path,relative_path
-4193,29.97002997002997,139.90643333333333,139,1.0,data\clips\camera1\CAM 1.mp4,camera1\CAM 1.mp4
-3774,29.97002997002997,125.9258,125,1.0,data\clips\camera1\CAM 2.mp4,camera1\CAM 2.mp4
-4436,29.97002997002997,148.01453333333333,43,0.2925170068027211,data\clips\camera1\CAM 3.mp4,camera1\CAM 3.mp4
-3647,24.98150532920514,145.988,63,0.5206611570247934,data\clips\camera1\CAM 4.mp4,camera1\CAM 4.mp4
-3465,24.98143515280852,138.703,115,1.0,data\clips\camera1\CAM 5.mp4,camera1\CAM 5.mp4
